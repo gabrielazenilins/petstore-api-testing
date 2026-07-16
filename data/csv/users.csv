@@ -1,0 +1,4 @@
+id,username,firstName,lastName,email,password,phone,userStatus
+996034602,gabriela1,Gabriela,Lins,gabrielalins1@email.com,senhadificil,45999999999,11
+996034603,jane2,Jane,Doe,janedoe2@email.com,senhamediana,41988888888,22
+996034604,john3,John,Doe,johndoe3@email.com,senhafacil,41977777777,33
